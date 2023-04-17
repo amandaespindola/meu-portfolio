@@ -17,12 +17,12 @@
 
 body{
     height: 100vh;
-    box-sizing: border-box;                                  /*ver o que é */
+    box-sizing: border-box;                                  
     background-color: var(--cor-primaria);
 }
 
 .cabecalho{
-    padding:2% 0% 0% 15%;               /*pq dois valores sao 0?*/ 
+    padding:2% 0% 0% 15%;              
 }
 
 .cabecalho__menu{
@@ -40,7 +40,7 @@ body{
 
 
 .apresentacao{
-    padding: 8% 15% 23% 15%;            /*dei um jeito no problema assim mas ainda acho que nao é assim que*/     
+    padding: 8% 15% 23% 15%;                
     /* margin: 10% 15%; */
     display: flex;
     align-items: center;
